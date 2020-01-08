@@ -1,0 +1,53 @@
+h1{
+    text-shadow: 2px 2px rgb(217, 48, 59) ;
+}
+
+ul {
+  list-style-type: none;
+    background-color: rgb(48, 112, 217);
+    font-size: 23px;
+}
+
+a{
+    text-decoration: none;
+    margin: 15px;
+    color: rgb(247, 84, 84);
+    text-shadow: 2px 2px rgb(112, 34, 34);
+}
+
+li{
+    display: inline;
+   font-family: 'Ropa Sans', sans-serif;
+
+    
+}
+
+li a:hover {
+  background-color: #9db9c9;
+}
+
+p{
+    font-family: 'Ropa Sans', sans-serif;
+}
+body{
+    background-color: rgb(138, 167, 222);
+}
+.h1{
+  text-shadow: 2px 2px rgb(217, 48, 59) ;
+}
+
+img{
+    width: 20%;
+    height: 50%;
+    margin-left: 40%;
+    margin-right: 45%; 
+}
+
+
+
+
+
+
+
+
+
